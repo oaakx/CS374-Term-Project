@@ -4,10 +4,10 @@ _Listen() Project_ is our team's term project for (CS374 @ [KAIST](http://kaist.
 
 ## Team Members
 
-* Bolat Ashim ([github](https://github.com/bolatashim))
-* Hyoung-Wook Jin ([github](https://github.com/jhw123))
-* Silap Aliyev ([github](https://github.com/oaakx))
-* Tae Soo Kim ([github](https://github.com/tsook))
+* Bolat Ashim ( [Github](https://github.com/bolatashim) )
+* Hyoung-Wook Jin ( [Github](https://github.com/jhw123) )
+* Silap Aliyev ( [Github](https://github.com/oaakx) )
+* Tae Soo Kim ( [Github](https://github.com/tsook) )
 
 
 ## POV (Point of View) For The Project
