@@ -1,24 +1,40 @@
-# Introduction to Human-Computer Interaction (CS374) Course Project
+# Listen() Project
 
-# Team: listen()
+_Listen() Project_ is our team's term project for (CS374 @ [KAIST](http://kaist.edu) 2017 Spring) Introduction to Human-Computer Interaction course.
 
-##### **Members: Bolat Ashim, Hyoung-wook Jin, Silap Aliyev, Tae Soo Kim**
+## Team Members
+
+* Bolat Ashim ([github](https://github.com/bolatashim))
+* Hyoung-Wook Jin ([github](https://github.com/jhw123))
+* Silap Aliyev ([github](https://github.com/oaakx))
+* Tae Soo Kim ([github](https://github.com/tsook))
 
 
-## Point of View (POV)
+## POV (Point of View) For The Project
 
-_**A KAIST professor** needs **to increase the amount of student participation in classes** because **it boosts the quality of their lecture and course and helps them manage their course.**_
+> (Who?) **KAIST professors** need to (What?) **increase the amount of student participation in classes** because (Why?) **it boosts the quality of their lecture and course and helps them manage their course.**
 
-[YOUTUBE INTRO VIDEO](https://youtu.be/IwefWBHloOc "Team listen project")
+## Video
 
-**Instructor interface**
+[![](https://img.youtube.com/vi/IwefWBHloOc/0.jpg)](https://www.youtube.com/watch?v=IwefWBHloOc)
 
-The instructor interface starts from `index.html` which has the courses listing. From here he/she can go to previous lectures of given course and add new lectures. Upon adding a new lecture they, they can receive questions from student users who use the student interface. Also, one can review and keep track of the data from previous lectures through the review page.  
+* [Watch on Youtube](https://www.youtube.com/watch?v=IwefWBHloOc)
 
-Each page has its own javascript file which contains the all of the interactions. The scripts folder contains these files, which are named in a similar way to their corresponding html files.
+## Interface
 
-**Student interface**
+### Instructor's User-Interface
 
-This interface has two parts: the login page for logging in and an index page for the student to be able to ask questions in the active lecture. These two have their corresponding js files in the scripts folder.
-Login page: student_login.html -> Question sending page: student_index.html
+The instructor interface starts from **index page** (`index.html`) which has the courses listing. From here he/she can go to previous lectures of given course and add new lectures. Upon adding a new lecture they can receive questions from student users who use the student interface. Also, one can review and keep track of the data from previous lectures through the review page.  
 
+Each page has its own JavaScript file which contains the all of the interactions. The `scripts` folder contains these files, which are named in a similar way to their corresponding HTML files.
+
+## Student's User-Interface
+
+This interface has two parts:
+
+* **login page** (`student_login.html`) - for logging in, and
+* **index page** (`student_index.html`) - for the student to be able to ask questions in the active lecture.
+
+## Screenshots
+
+![Screenshot of Questions page](screenshot.png)
