@@ -18,7 +18,7 @@ _Listen() Project_ is our team's term project for (CS374 @ [KAIST](http://kaist.
 
 [![](https://img.youtube.com/vi/IwefWBHloOc/0.jpg)](https://www.youtube.com/watch?v=IwefWBHloOc)
 
-* [Watch on Youtube](https://www.youtube.com/watch?v=IwefWBHloOc)
+* [Watch on Youtube](https://www.youtube.com/watch?v=IwefWBHloOc) (warning: terrible actors)
 
 ## Interface
 
